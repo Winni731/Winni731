@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Winni731
 - 👀 I’m interested in Front-end Development, Back-end Development, full-stack Development, Game Development 
 - 🌱 I’m currently learning Kotlin, Game Development, Android Studio, React.js, SQL
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Front-End/Back-End/Full-Stack/Game Application Projects
 - 📫 How to reach me fengfei721@hotmail.com
 
 <!---
